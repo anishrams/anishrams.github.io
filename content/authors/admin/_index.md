@@ -4,7 +4,7 @@ title: Anishram Senathi
 
 # Full name (for SEO)
 first_name: Anish
-last_name: Senthi
+last_name: Senathi
 
 # Status emoji
 status:
@@ -77,5 +77,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Anish Senathi is a final year master's student of robotics at Carnegie Mellon University. His research interests include computer vision, human-robot interaction and reinforcement learning. His is currently working on building an autonomous excavator rover with Prof. Red Whittaker and Caterpillar Inc.
 {style="text-align: justify;"}
