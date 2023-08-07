@@ -26,9 +26,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Human - Robot Interaction
+  - Robot Learning
 
 # Education to show in About widget
 education:
@@ -47,22 +47,15 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: '/#mailto:asenathi@andrew.cmu.edu'
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/anishrams
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/anish-senathi-740615112/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -77,5 +70,5 @@ email: ''
 highlight_name: true
 ---
 
-Anish Senathi is a final year master's student of robotics at Carnegie Mellon University. His research interests include computer vision, human-robot interaction and reinforcement learning. His is currently working on building an autonomous excavator rover with Prof. Red Whittaker and Caterpillar Inc.
+Anish Senathi is a final year master's student of robotics at Carnegie Mellon University. His research interests include computer vision, human-robot interaction and robot learning. His is currently working on building a lunar autonomous excavator with Prof. Red Whittaker and Caterpillar Inc.
 {style="text-align: justify;"}

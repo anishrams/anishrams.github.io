@@ -39,27 +39,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Systems Design Intern (Perception)
+          company: Torc Robotics
+          company_url: 'https://torc.ai/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Blacksburg, VA
+          date_start: '2023-05-22'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          description: |3-
+              * Optimized camera placement using Particle Swarm Optimization (PSO) for next generation of self-driving truck sensor suite, obtained 13% higher scores on evaluation metrics
+              * Developed a Proximal Policy Optimization (PPO) framework to learn parameter relationships and strategies to tweak current sensor suite and provide qualitative analysis
+              * Designed evaluation metrics based on perception usecases and developed a production-grade in-house visualization tool using 3D geometry libraries
+        - title: Research Engineer (IoT/AI)
+          company: Daikin Industries, Ltd.
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Osaka, Japan
+          date_start: '2019-10-01'
+          date_end: '2022-7-31'
+          description: |2-
+              * Leveraged UAVs, wearable devices and computer vision to drive innovations in the energy management industry, remote support solutions, and video retrieval algorithms.
+              * Submitted 4 AI patents to Japan Patent Office.
     design:
       columns: '2'
   - block: accomplishments
@@ -208,36 +208,16 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: asenathi@andrew.cmu.edu
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
+        street: 510 S Highland Ave
+        city: Pittsburgh
+        region: PA
+        postcode: '15206'
         country: United States
         country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
